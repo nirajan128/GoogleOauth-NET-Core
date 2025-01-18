@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleOAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02906ea59077055180b0c8abe3dff378da2ee3d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+230b22f04c817cfe449557f45f33e235f7327187")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleOAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleOAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
