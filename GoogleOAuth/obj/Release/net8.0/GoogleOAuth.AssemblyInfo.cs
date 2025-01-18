@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-GoogleOAuth-2ea73de5-2a18-4be4-845d-11874d3db906")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleOAuth")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02906ea59077055180b0c8abe3dff378da2ee3d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleOAuth")]
