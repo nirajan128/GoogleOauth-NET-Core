@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using GoogleOAuth.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GoogleOAuth.Controllers
@@ -18,6 +19,7 @@ namespace GoogleOAuth.Controllers
             return View();
         }
 
+        [Authorize]
         public IActionResult Privacy()
         {
             return View();
