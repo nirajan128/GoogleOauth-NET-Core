@@ -31,11 +31,11 @@ namespace GoogleOAuth.Areas.Identity.Pages.Account
         private readonly IEmailSender _emailSender;
 
         public RegisterModel(
-            UserManager<IdentityUser> userManager,
-            IUserStore<IdentityUser> userStore,
-            SignInManager<IdentityUser> signInManager,
-            ILogger<RegisterModel> logger,
-            IEmailSender emailSender)
+          UserManager<IdentityUser> userManager,
+    IUserStore<IdentityUser> userStore,
+    SignInManager<IdentityUser> signInManager,
+    ILogger<RegisterModel> logger,
+    IEmailSender emailSender)
         {
             _userManager = userManager;
             _userStore = userStore;
